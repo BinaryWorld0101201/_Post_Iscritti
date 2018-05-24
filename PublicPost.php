@@ -1,6 +1,6 @@
 <?php
 
-/*PLUGIN MAKE BY @C0rry_03 ( on telegram ).
+/*PLUGIN MADE BY @C0rry_03 ( on telegram ).
 
 For the correct use of the plugin it is advisable to create the $tabella variable if you do not already have it.
 
